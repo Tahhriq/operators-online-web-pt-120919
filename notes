@@ -1,20 +1,17 @@
-if statements => conditional statements
+# ternary operators
 
-- control flow: execute logic based on the condition statements
-- if/else statements
 
-- if (condition)
-    logic to be executed
-  elseif (second condition)
-    logic to be executed
-  elseif (second condition)
-    logic to be executed
-  else
-    logic to be executed
-  end
-  
-  #speak_to_grandma << looking for an instance method
-  
-  def method_name
-  
-  end 
+- short way of doing if/else statements
+
+
+
+
+?:
+
+
+
+(condition) ? execute logic if condition returns true : execute logic if condition returns false
+
+
+
+condition ? true logic : false logic (if/else)
